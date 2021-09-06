@@ -1,0 +1,2 @@
+# zsk
+zsk wpż
