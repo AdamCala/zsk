@@ -1,3 +1,0 @@
-<!OCTYPE html>
-<html>
-</html>
