@@ -1,0 +1,15 @@
+tr, td, th{
+  border: solid black 1px;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 8px;
+}
+td:nth-of-type(1){
+  background-color: Silver;
+}
+th{
+  background-color: Silver;
+}
+td{
+  background-color: WhiteSmoke;
+}
