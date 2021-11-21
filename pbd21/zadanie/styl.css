@@ -1,7 +1,0 @@
-tr, td, th{
-    border: solid black 1px;
-    border-collapse: collapse;
-    text-align: center;
-    padding: 8px;
-    width: 100px;
-  }
